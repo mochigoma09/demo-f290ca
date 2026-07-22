@@ -1,2 +1,3 @@
 # demo-f290ca
-Auto generated demo site for ビューティスタジオ Cenbless（センブレス）
+
+AIによって自動生成された ビューティスタジオ Cenbless（センブレス） 様向けのデモサイトです。
